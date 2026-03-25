@@ -1,0 +1,210 @@
+{
+  "address": "eeeee@111.comeeeee@111.com",
+  "age": "",
+  "archievementdisplay": [
+    {
+      "achievementName": "成果1",
+      "achievementDescription": "成果1",
+      "isHide": false
+    },
+    {
+      "achievementName": "成果2",
+      "achievementDescription": "成果2成果2成果2成果2成果2成果2成果2成",
+      "isHide": false
+    }
+  ],
+  "archiveRewards": [
+    {
+      "rewardsType": 1,
+      "rewardsName": "打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的",
+      "rewardsTime": "",
+      "id": "3ba5332e8625445b8734ed11d56aa14e"
+    }
+  ],
+  "bareheadedphoto": "jiuyexing/resume/4514086589213859849fd8d0ccbca142/1744860712671.png",
+  "birthday": "",
+  "careerGoal": "",
+  "certificaterewards": [
+    {
+      "certificateType": 5,
+      "certificateName": "打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的打撒的",
+      "certificateTime": "",
+      "id": "d9262e347c63421e810846b5e251a1e0"
+    }
+  ],
+  "contract": "13111112222",
+  "educational": [
+    {
+      "id": "fed5c82361134f819526862bd4c9cd42",
+      "intakeDate": "2016-01",
+      "graduationDate": "2016-03",
+      "collegeName": "我饿企鹅群",
+      "specialtyName": "鹅鹅鹅1",
+      "credentialType": 1,
+      "GPA": "鹅鹅鹅",
+      "majorCourses": [
+        {
+          "courseName": "呃呃呃1 ",
+          "score": "21额"
+        }
+      ],
+      "isHide": false
+    },
+    {
+      "id": "fed5c82361134f819526862bd4c9cd42",
+      "intakeDate": "2016-01",
+      "graduationDate": "2016-03",
+      "collegeName": "学校名称",
+      "specialtyName": "专业名称",
+      "credentialType": 1,
+      "GPA": "鹅鹅鹅",
+      "majorCourses": [
+        {
+          "courseName": "呃呃呃1 ",
+          "score": "21额"
+        }
+      ],
+      "isHide": false
+    },
+    {
+      "id": "fed5c82361134f819526862bd4c9cd42",
+      "intakeDate": "2016-01",
+      "graduationDate": "2016-03",
+      "collegeName": "武汉大学",
+      "specialtyName": "专业名称",
+      "credentialType": 1,
+      "GPA": "鹅鹅鹅",
+      "majorCourses": [
+        {
+          "courseName": "化学",
+          "score": "21额"
+        }
+      ],
+      "isHide": false
+    },
+    {
+      "id": "",
+      "intakeDate": "2025-06",
+      "graduationDate": "2025-07",
+      "collegeName": "武汉大学",
+      "specialtyName": "21",
+      "credentialType": 1,
+      "GPA": "12",
+      "majorCourses": [],
+      "isHide": false
+    }
+  ],
+  "email": "eeeee@111.com",
+  "familyBackground": "eeeee@111.comeeeee@111.com",
+  "intendedPosition": "",
+  "interest": "",
+  "internshipexperience": "",
+  "name": "cc",
+  "politicaloutlook": "1",
+  "projectexperience": [
+    {
+      "id": "UoXKnFm0546dd9d58eb8a98ca23bdb2c",
+      "projectStartDate": "2025-06",
+      "projectEndDate": "2025-08",
+      "projectName": "撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒点",
+      "projectDescription": "为提升1212期间业务表现开展工作，优化流程并采用协作工具提高效率。",
+      "performance": "",
+      "isHide": false,
+      "workItems": [
+        {
+          "actionOrMethod": "优化工作流程和采用高效的协作工具",
+          "workOutcome": "提高了20%的工作效率"
+        }
+      ],
+      "originalContent": "",
+      "showContent": "为提升1212期间业务表现开展工作，优化流程并采用协作工具提高效率。优化工作流程和采用高效的协作工具，提高了20%的工作效率。\n",
+      "aiOptimizing": false,
+      "showType": 0,
+      "hasChanged": false
+    }
+  ],
+  "reasonsForCareer": "",
+  "selfevaluation": "本人具备扎实的Java编程基础，熟练掌握Spring、Spring Boot等开发框架，有3年以上Java后端开发经验。曾负责多个项目的架构设计与开发，能高效解决技术难题。工作中态度严谨，注重代码质量与性能优化，具备良好的职业操守。善于沟通协作，有较强的团队合作精神，能快速适应项目需求。",
+  "sex": "1",
+  "skills": [
+    {
+      "skillName": "篮球",
+      "skillDescription": "了解",
+      "isHide": true
+    },
+    {
+      "skillName": "钢琴",
+      "skillDescription": "了解",
+      "isHide": true
+    },
+    {
+      "skillName": "足球",
+      "skillDescription": "了解",
+      "isHide": true
+    },
+    {
+      "skillName": "羽毛球",
+      "skillDescription": "了解",
+      "isHide": true
+    },
+    {
+      "skillName": "书法",
+      "skillDescription": "了解",
+      "isHide": false
+    }
+  ],
+  "socialpractice": [
+    {
+      "id": "UoXKn5Tf56f4e9d30d8914b3ab3d1e36",
+      "socialStartDate": "2025-07",
+      "socialEndDate": "2025-08",
+      "socialName": "撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒点",
+      "socialDescription": "积极参与社会实践，分析执行任务完成工作内容12，提升自身实践能力。。认真分析和执行相关任务;完成工作内容12，有效提升自身实践能力积极参与社会实践，分析执行任务完成工作内容12，提升自身实践能力。。认真分析和执行相关任务;完成工作内容12，有效提升自身实践能力积极参与社会实践，分析执行任务完成工作内容12，提升自身实践能力。。认真分析和执行相关任务;完成工作内容12，有效提升自身实践能力积极参与社会实践，分析执行任务完成工作内容12，提升自身实践能力。。认真分析和执行相关任务;完成工作内容12，有效提升自身实践能力积极参与社会实践，分析执行任务完成工作内容12，提升自身实践能力",
+      "position": "",
+      "socialImages": null,
+      "isHide": false,
+      "harvest": "",
+      "workItems": null,
+      "originalContent": "",
+      "aiOptimizing": false,
+      "showType": 0,
+      "hasChanged": false
+    }
+  ],
+  "talentdisplay": "",
+  "traitsOfCharacter": "",
+  "workArea": "",
+  "workexperience": [
+    {
+      "id": "UoXKnmL210b7020a86378b44c703a290",
+      "entryDate": "2025-02",
+      "leaveDate": "2025-08",
+      "companyName": "撒点酒精撒点酒精撒点酒精撒点酒精撒点酒精撒高级开发高级开发",
+      "departName": "kf高级开发高级开发高级开发",
+      "jobName": "高级开发",
+      "jobDescription": "负责[具体业务名称]相关工作，运用数据分析和项目管理策略提升工作效率。",
+      "performance": "",
+      "isHide": false,
+      "workItems": [
+        {
+          "actionOrMethod": "运用数据分析工具对业务数据进行深入分析",
+          "workOutcome": "实现工作效率提高20%"
+        },
+        {
+          "actionOrMethod": "采用项目管理策略对业务流程进行优化",
+          "workOutcome": "实现工作效率提高20%"
+        },
+        {
+          "actionOrMethod": "采用项目管理策略对业务流程进行优化采用项目管理策略对业务流程进",
+          "workOutcome": "实现工作效率提高20%"
+        }
+      ],
+      "showContent": "负责特定业务相关工作，运用专业方法和有效策略提升工作效率。1.运用专业方法开展相关工作，工作效率提高了20%。\n2.采用有效策略进行另一部分相关工作，工作效率提高了20%。\n",
+      "originalContent": "",
+      "companyType": 0,
+      "aiOptimizing": false,
+      "showType": 0,
+      "hasChanged": false
+    }
+  ]
+}
